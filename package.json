@@ -1,0 +1,10 @@
+{
+  "name": "travel-go",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "set TRAVEL_GO_UPI_ID=sachansulab@oksbi&& node server.js"
+  },
+  "dependencies": {}
+}
